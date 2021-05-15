@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+New repo and good for new comers and learners
 
 ## What it does
 
-FEATURES PLACEHOLDER
+New fratures to be added soon
 
 ## Getting started
 
