@@ -1,2 +1,0 @@
-CONTRIBUTOR CODE
-mail me
